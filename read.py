@@ -1,2 +1,2 @@
-with open('numbers.txt') as num:
-    print(num.read())
+for i in range(5):
+    print(i)
